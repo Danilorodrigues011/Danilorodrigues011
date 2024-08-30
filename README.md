@@ -1,9 +1,9 @@
-- 👋 Olá,meu nome é Danilo Rodrigues
-- estou estudando no ALURA
--gosto de jogar bola
--gosto de tecnologia
--estou me desenvolvendo na linguagem de javaScript
--utilizo esse espaço para minha organização e compartilhamentos dos meus projetos desenvolvidos
+ 👋 Olá,meu nome é Danilo Rodrigues
+  estou estudando no ALURA
+ gosto de jogar bola
+ gosto de tecnologia
+ estou me desenvolvendo na linguagem de javaScript
+ utilizo esse espaço para minha organização e compartilhamentos dos meus projetos desenvolvidos
 
 Você pode entrar em contato comigo: 
 danilo321dan@gmail.com
